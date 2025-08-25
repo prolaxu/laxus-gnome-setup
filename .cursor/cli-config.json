@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "editor": {
+    "vimMode": false
+  },
+  "model": {
+    "modelId": "gpt-5",
+    "displayModelId": "gpt-5",
+    "displayName": "OpenAI GPT-5",
+    "displayNameShort": "GPT-5",
+    "aliases": []
+  },
+  "hasChangedDefaultModel": true,
+  "permissions": {
+    "allow": [
+      "Shell(ls)",
+      "Write(/home/laxu/Documents/apps/swftea/public/icons/.gitkeep)"
+    ],
+    "deny": []
+  },
+  "privacyCache": {
+    "ghostMode": true,
+    "privacyMode": 1,
+    "updatedAt": 1754787968708
+  }
+}
